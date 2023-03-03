@@ -1,0 +1,1 @@
+Ejercicio que permite efectuar la compra de boletos para un cine.
