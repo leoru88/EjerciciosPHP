@@ -1,0 +1,1 @@
+Reflejar el monto total de una venta junto a un obsequio para 20 usuarios con un número de ticket.
